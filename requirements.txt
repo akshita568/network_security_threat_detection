@@ -2,3 +2,6 @@ python-dotenv
 pandas
 numpy
 pymongo
+certifi
+#-e .
+#-e . triggers the setup.py file that installs the project as a package
