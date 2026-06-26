@@ -3,5 +3,6 @@ pandas
 numpy
 pymongo
 certifi
+pymongo[srv]==3.12
 #-e .
 #-e . triggers the setup.py file that installs the project as a package
