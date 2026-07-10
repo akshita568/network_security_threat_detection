@@ -5,7 +5,7 @@ import pandas as pd
 
 
 ##common constant variable for training pipeline
-TARGET_COLUMN="result"
+TARGET_COLUMN="Result"
 PIPELINE_NAME: str="NworkSecurity"
 ARTIFACT_DIR: str="Artifacts"
 FILE_NAME: str="phisingData.csv"
@@ -15,8 +15,8 @@ TEST_FILE_NAME:str ="test.csv"
 
 
 ##data ingestion related constants
-DATA_INGESTION_COLLECTION_NAME: str="networkData"
-DATA_INGESTION_DATABASE_NAME: str="phishingDataURLS"
+DATA_INGESTION_COLLECTION_NAME: str="NetworData"
+DATA_INGESTION_DATABASE_NAME: str="AKSHITA"
 DATA_INGESTION_DIR_NAME: str="data_ingestion"
 DATA_INGESTION_FEATURE_STROE_DIR: str="feature_store"
 DATA_INGESTION_INGESTED_DIR: str="ingested"
