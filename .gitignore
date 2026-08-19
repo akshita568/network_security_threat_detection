@@ -3,3 +3,4 @@ env
 test_mongodb.py
 __pycache__
 logs
+Artifacts
